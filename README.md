@@ -1,2 +1,2 @@
 # jkwebsites
-A React website
+A static website build with React
